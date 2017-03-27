@@ -1,9 +1,9 @@
-### Express Swagger Middleware
+### Express Swagger Generator
 
 #### Installation
 
 ```
-npm i express-swagger-middleware --save-dev
+npm i express-swagger-generator --save-dev
 ```
 
 #### Usage

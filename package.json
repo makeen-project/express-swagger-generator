@@ -1,5 +1,5 @@
 {
-  "name": "express-swagger-middleware",
+  "name": "express-swagger-generator",
   "version": "1.0.0",
   "description": "Generates swagger doc & ui based on express existing routes.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/pgroot/express-swagger-middleware.git"
+    "url": "https://github.com/pgroot/express-swagger-generator.git"
   },
   "keywords": [
     "express",
@@ -17,12 +17,12 @@
     "swagger-ui",
     "restful"
   ],
-  "author": "https://github.com/pgroot/express-swagger-middleware/graphs/contributors",
+  "author": "https://github.com/pgroot/express-swagger-generator/graphs/contributors",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/pgroot/express-swagger-middleware/issues"
+    "url": "https://github.com/pgroot/express-swagger-generator/issues"
   },
-  "homepage": "https://github.com/pgroot/express-swagger-middleware",
+  "homepage": "https://github.com/pgroot/express-swagger-generator",
   "dependencies": {
     "doctrine": "^2.0.0",
     "glob": "^7.0.3",
